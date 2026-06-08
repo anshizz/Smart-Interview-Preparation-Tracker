@@ -1,0 +1,8 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!target/*.war
+.idea/
+.vscode/
+*.iml
+*.log
+src/main/resources/db.properties.local

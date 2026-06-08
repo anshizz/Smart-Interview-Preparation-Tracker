@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.vscode/
+*.class
+*.log
+src/main/resources/db.properties.local
